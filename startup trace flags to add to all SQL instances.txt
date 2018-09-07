@@ -1,0 +1,3 @@
+;-t1118;-t1117;-t2371
+
+check whether they are on using... dbcc tracestatus;
